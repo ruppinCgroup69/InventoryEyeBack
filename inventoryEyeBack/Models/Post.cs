@@ -30,7 +30,7 @@ public class Post
     public int NewPost()
     {
         PostDBservices dbServices = new PostDBservices();
-        return dbServices.newPostDB(UserId, PostContent,NumberOfComments, AddressLatitude, AddressLongtitude, Category);
+        return dbServices.newPostDB(PostContent,NumberOfComments, AddressLatitude, AddressLongtitude, Category);
     }
 
     public int Delete(int postId)

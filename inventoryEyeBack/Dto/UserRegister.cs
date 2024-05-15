@@ -10,7 +10,7 @@ namespace inventoryeyeback.Dto
         public string Password { get; set; } = string.Empty;
         public double AddressLatitude { get; set; }
         public double AddressLongtitude { get; set; }
-        public long BirthDate { get; set; } // הורדנו את הסימן שאלה כי זה עשה שגיאה בפונ' אינסרט
+        public long BirthDate { get; set; } 
 
 
         public int Insert()

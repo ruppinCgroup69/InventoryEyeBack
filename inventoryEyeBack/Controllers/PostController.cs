@@ -8,8 +8,6 @@ using inventoryeyeback;
 using System.ComponentModel;
 
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace inventoryEyeBack.Controllers
 {
     [Route("api/[controller]")]
@@ -33,39 +31,31 @@ namespace inventoryEyeBack.Controllers
         [HttpPost("newPost")]
         public async Task<IActionResult> NewPost([FromBody] Post post)
         {
+            // Get the user ID from the session
+            int? userId = HttpContext.Session.GetInt32("UserId");
 
-            int status = post.NewPost();
-            if (status == 1)
+            if (userId.HasValue)
             {
-                return Ok();
+                // Set the user ID in the post object
+                post.UserId = userId.Value;
+
+                // Call the NewPost method to create the post
+                int status = post.NewPost();
+
+                if (status == 1)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return BadRequest();
+                }
             }
             else
             {
-                return BadRequest();
+                return Unauthorized("User not authenticated.");
             }
-
         }
-
-        //[HttpPost("newPost")]
-        //public async Task<IActionResult> NewPost([FromBody] Post post, int userId)
-        //{
-        //    User user = new User();
-        //    List<User> allUsers = user.Read();
-
-        //    User foundUser = allUsers.FirstOrDefault(u => u.UserId == userId);
-
-        //    // Call the method to create the post
-        //    int status = await post.NewPost(); // Assuming NewPostAsync is now an async method that returns a Task<int>
-
-        //    if (status == 1)
-        //    {
-        //        return Ok();
-        //    }
-        //    else
-        //    {
-        //        return BadRequest("Failed to create post.");
-        //    }
-        //}
 
 
 

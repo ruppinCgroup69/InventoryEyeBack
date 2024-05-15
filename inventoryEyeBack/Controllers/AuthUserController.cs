@@ -65,20 +65,33 @@ public class AuthUserController : ControllerBase
     {
         try
         {
-            // Call the static Login method in the User class
-            User ExistingUser = UserLogin.Login(userLogin.Email, userLogin.Password);
-
-            if (ExistingUser == null)
+            User existingUser = UserLogin.Login(userLogin.Email, userLogin.Password);
+            if (existingUser == null)
             {
                 return BadRequest("Email or password incorrect.");
             }
 
-            return Ok(); // status = 200
+            // Check if UserId is valid
+            if (existingUser.UserId <= 0)
+            {
+                return BadRequest("Invalid user ID.");
+            }
+
+            // Store the user ID in the session
+            string sessionId = Guid.NewGuid().ToString();
+            HttpContext.Session.SetString(sessionId, existingUser.UserId.ToString());
+
+            // Return the session ID to the client
+            return Ok(new { SessionId = sessionId });
         }
         catch (Exception e)
         {
-            Console.WriteLine(e.StackTrace);
-            return BadRequest($@"User with email {userLogin.Email} not found"); // status = 400
+            // Log the exception details
+            Console.WriteLine($"Exception: {e.Message}\nStack Trace: {e.StackTrace}");
+            
+
+            // Return an appropriate error response
+            return StatusCode(500, "An error occurred during login.");
         }
     }
 

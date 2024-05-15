@@ -31,8 +31,8 @@ public class PostDBservices
     //--------------------------------------------------------------------------------------------------
     // This method inserts a new post to the posts table 
     //--------------------------------------------------------------------------------------------------
-    
-    public int newPostDB(int userId, string PostContent, int NumberOfComments, double AddressLatitude, double AddressLongitude, CategoryType Category)
+
+    public int newPostDB( string PostContent, int NumberOfComments, double AddressLatitude, double AddressLongitude, CategoryType Category)
     {
         SqlConnection con;
         SqlCommand cmd;
@@ -47,7 +47,7 @@ public class PostDBservices
             throw (ex);
         }
 
-        cmd = CreateNewPostWithStoredProcedure("SP_newPost", con, userId, PostContent,NumberOfComments, AddressLatitude, AddressLongitude, Category); // create the command
+        cmd = CreateNewPostWithStoredProcedure("SP_newPost", con, PostContent, NumberOfComments, AddressLatitude, AddressLongitude, Category); // create the command
 
         try
         {
@@ -73,8 +73,8 @@ public class PostDBservices
     //---------------------------------------------------------------------------------
     // Create the SqlCommand using a stored procedure - newPost
     //---------------------------------------------------------------------------------
-  
-    private SqlCommand CreateNewPostWithStoredProcedure(string spName, SqlConnection con, int userId, string PostContent, int NumberOfComments, double AddressLatitude, double AddressLongitude, CategoryType Category)
+
+    private SqlCommand CreateNewPostWithStoredProcedure(string spName, SqlConnection con,  string PostContent, int NumberOfComments, double AddressLatitude, double AddressLongitude, CategoryType Category)
     {
         SqlCommand cmd = new SqlCommand(); // create the command object
 
@@ -86,7 +86,6 @@ public class PostDBservices
 
         cmd.CommandType = System.Data.CommandType.StoredProcedure; // the type of the command, can also be text
 
-        cmd.Parameters.AddWithValue("@userId", userId);
         cmd.Parameters.AddWithValue("@datePublished", DateTime.UtcNow);
         cmd.Parameters.AddWithValue("@postContent", PostContent);
         cmd.Parameters.AddWithValue("@numberOfComments", NumberOfComments);
@@ -118,7 +117,7 @@ public class PostDBservices
         }
 
         cmd = CreateDeleteWithStoredProcedure("SP_DeletePost", con, postId); // create the command
-        
+
         try
         {
             int numEffected = cmd.ExecuteNonQuery(); // execute the command
@@ -211,28 +210,29 @@ public class PostDBservices
     // Create the SqlCommand using a stored procedure - UpdatePost
     //---------------------------------------------------------------------------------
     private SqlCommand CreateUpdateUserWithStoredProcedure(String spName, SqlConnection con, string PostContent, int NumberOfComments, double AddressLatitude, double AddressLongtitude, CategoryType Category)
-    {)
     {
+        {
 
-        SqlCommand cmd = new SqlCommand(); // create the command object
+            SqlCommand cmd = new SqlCommand(); // create the command object
 
-        cmd.Connection = con;              // assign the connection to the command object
+            cmd.Connection = con;              // assign the connection to the command object
 
-        cmd.CommandText = spName;      // can be Select, Insert, Update, Delete 
+            cmd.CommandText = spName;      // can be Select, Insert, Update, Delete 
 
-        cmd.CommandTimeout = 10;           // Time to wait for the execution' The default is 30 seconds
+            cmd.CommandTimeout = 10;           // Time to wait for the execution' The default is 30 seconds
 
-        cmd.CommandType = System.Data.CommandType.StoredProcedure; // the type of the command, can also be text
+            cmd.CommandType = System.Data.CommandType.StoredProcedure; // the type of the command, can also be text
 
-        //cmd.Parameters.AddWithValue("@datePublished", DateTime.UtcNow);
-        cmd.Parameters.AddWithValue("@postContent", PostContent);
-        cmd.Parameters.AddWithValue("@numberOfComments", NumberOfComments);
-        cmd.Parameters.AddWithValue("@dateUpdated", DateTime.UtcNow);
-        cmd.Parameters.AddWithValue("@addressLatitude", AddressLatitude);
-        cmd.Parameters.AddWithValue("@addressLongitude", AddressLongtitude);
-        cmd.Parameters.AddWithValue("@category", Category);
+            //cmd.Parameters.AddWithValue("@datePublished", DateTime.UtcNow);
+            cmd.Parameters.AddWithValue("@postContent", PostContent);
+            cmd.Parameters.AddWithValue("@numberOfComments", NumberOfComments);
+            cmd.Parameters.AddWithValue("@dateUpdated", DateTime.UtcNow);
+            cmd.Parameters.AddWithValue("@addressLatitude", AddressLatitude);
+            cmd.Parameters.AddWithValue("@addressLongitude", AddressLongtitude);
+            cmd.Parameters.AddWithValue("@category", Category);
 
 
             return cmd;
+        }
     }
 }
