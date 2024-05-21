@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\uploads\\plant.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\plant.jpeg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.build.inventoryEyeBack.props",
+      "PackagePath": "build\\inventoryEyeBack.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.inventoryEyeBack.props",
+      "PackagePath": "buildMultiTargeting\\inventoryEyeBack.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.inventoryEyeBack.props",
+      "PackagePath": "buildTransitive\\inventoryEyeBack.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,83 +1,71 @@
 using System.Text;
 using inventoryeyeback;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi.Models;
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Session;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Caching.Memory;
 
-builder.WebHost.UseUrls("http://localhost:5001");
-builder.Services.AddEndpointsApiExplorer();
-
-builder.Services.AddControllers();
-builder.Services.AddSwaggerGen(options =>
+namespace inventoryeyeback
 {
-    // Visual information
-    options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    public class Program
     {
-        In = ParameterLocation.Header,
-        Name = "Authorization",
-        Type = SecuritySchemeType.Http,
-        Scheme = "Bearer",
-        BearerFormat = "JWT",
-        Description = "JWT Authorization header using the Bearer scheme."
-    });
 
-    // Had to add security requiremenet, no token would be attached otherwise
-    options.AddSecurityRequirement(new OpenApiSecurityRequirement {
+        public static void Main(string[] args)
         {
-            new OpenApiSecurityScheme {
-                Reference = new OpenApiReference {
-                    Type = ReferenceType.SecurityScheme,
-                    Id = "Bearer"
-                },
-                In = ParameterLocation.Header,
-            },
-            new List<string>() // No scopes needed for simple JWT bearer token
+
+            var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddCors();
+
+            builder.Services.AddEndpointsApiExplorer();
+
+            builder.Services.AddControllers();
+
+            builder.Services.AddSwaggerGen();
+
+            var connStr = builder.Configuration.GetConnectionString("MySqlConnectionString");
+
+            builder.Services.AddDbContext<DatabaseContext>(options =>
+                options.UseSqlServer(
+                    builder.Configuration.GetConnectionString("MySqlConnectionString"),
+                    sqlOptions => sqlOptions.CommandTimeout((int)TimeSpan.FromMinutes(5).TotalSeconds)));
+
+            // Configure in-memory cache provider
+            builder.Services.AddDistributedMemoryCache();
+
+            // Configure session
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30); // Adjust the timeout as needed
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
+
+            var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (true)
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
+
+            app.UseHttpsRedirection();
+
+            app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+
+            app.UseAuthorization();
+
+            // Use session middleware
+            app.UseSession();
+            app.UseStaticFiles(); // Enable static file serving
+
+            app.MapControllers();
+
+            app.Run();
+
         }
-    });
-});
+    }
 
-// Add authentication
-builder.Services.AddAuthentication(options =>
-{
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-})
-.AddJwtBearer(options =>
-{
-    options.TokenValidationParameters = new TokenValidationParameters
-    {
-        ValidateIssuer = true,
-        ValidateAudience = true,
-        ValidateLifetime = true,
-        ValidateIssuerSigningKey = true,
-        ValidIssuer = "InventoryEye",
-        ValidAudience = "InventoryEye",
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtKey"]!))
-    };
-});
-
-
-
-var connStr = builder.Configuration.GetConnectionString("MySqlConnectionString");
-
-builder.Services.AddDbContext<DatabaseContext>(options =>
-    options.UseMySql(connStr, ServerVersion.AutoDetect(connStr)));
-
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthentication();
-app.UseAuthorization();
-app.MapControllers();
-app.Run();

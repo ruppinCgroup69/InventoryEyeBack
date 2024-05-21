@@ -1,9 +1,0 @@
-
-
-POST https//localhost:5001/auth/regiset
-Content-Type: application/json
-
-{
-    "FullName": "Ron Navon",
-    ""
-}

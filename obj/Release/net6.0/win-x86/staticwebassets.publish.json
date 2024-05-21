@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "+wT1Ie2IwGgxbDY9nh/8x2JQV3RwUYb99NrXGSSKHAM=",
+  "Source": "inventoryEyeBack",
+  "BasePath": "_content/inventoryEyeBack",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "inventoryEyeBack\\wwwroot",
+      "Source": "inventoryEyeBack",
+      "ContentRoot": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\",
+      "BasePath": "_content/inventoryEyeBack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg",
+      "SourceId": "inventoryEyeBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\",
+      "BasePath": "_content/inventoryEyeBack",
+      "RelativePath": "uploads/EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\uploads\\plant.jpeg",
+      "SourceId": "inventoryEyeBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\",
+      "BasePath": "_content/inventoryEyeBack",
+      "RelativePath": "uploads/plant.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\plant.jpeg"
+    }
+  ]
+}

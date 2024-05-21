@@ -1,15 +1,15 @@
 ﻿{
-  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "$schema": "https://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:13302",
-      "sslPort": 44332
+      "sslPort": 44300
     }
   },
   "profiles": {
-    "http": {
+    "inventoryEyeBack": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

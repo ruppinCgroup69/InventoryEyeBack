@@ -1,0 +1,456 @@
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/appsettings.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.exe
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.deps.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.runtimeconfig.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.pdb
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Humanizer.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.AssemblyReference.cache
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfoInputs.cache
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfo.cs
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.CoreCompileInputs.cache
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.build.inventoryEyeBack.props
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.inventoryEyeBack.props
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.inventoryEyeBack.props
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/scopedcss/bundle/inventoryEyeBack.styles.css
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.CopyComplete
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/refint/inventoryEyeBack.dll
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.pdb
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.genruntimeconfig.cache
+C:/Users/sharo/OneDrive/מסמכים/לימודים/תשפד/פרויקט גמר/inventoryeyeback/inventoryEyeBack/obj/Debug/net6.0/ref/inventoryEyeBack.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfo.cs
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.sourcelink.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/refint/inventoryEyeBack.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.pdb
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/appsettings.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.exe
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.deps.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.runtimeconfig.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.pdb
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Humanizer.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.build.inventoryEyeBack.props
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.inventoryEyeBack.props
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.inventoryEyeBack.props
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/scopedcss/bundle/inventoryEyeBack.styles.css
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.CopyComplete
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.genruntimeconfig.cache
+C:/Users/User/Desktop/inventoryEyeBack/inventoryEyeBack/obj/Debug/net6.0/ref/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/appsettings.Development.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/appsettings.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.deps.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.runtimeconfig.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.pdb
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Humanizer.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/MySqlConnector.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.AssemblyReference.cache
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfoInputs.cache
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfo.cs
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.CoreCompileInputs.cache
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cs
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cache
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.build.inventoryEyeBack.props
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.inventoryEyeBack.props
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.inventoryEyeBack.props
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/scopedcss/bundle/inventoryEyeBack.styles.css
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventor.EA329012.Up2Date
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/refint/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.pdb
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.genruntimeconfig.cache
+/Users/nadavavnon/Desktop/inventoryeye/back/inventoryEyeBack/obj/Debug/net6.0/ref/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/appsettings.Development.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/appsettings.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.deps.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.runtimeconfig.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.pdb
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Humanizer.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/MySqlConnector.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.AssemblyReference.cache
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfoInputs.cache
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.AssemblyInfo.cs
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.csproj.CoreCompileInputs.cache
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cs
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cache
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.build.inventoryEyeBack.props
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.inventoryEyeBack.props
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.inventoryEyeBack.props
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/scopedcss/bundle/inventoryEyeBack.styles.css
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventor.EA329012.Up2Date
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/refint/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.pdb
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/inventoryEyeBack.genruntimeconfig.cache
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/obj/Debug/net6.0/ref/inventoryEyeBack.dll
+/Users/nadavavnon/Desktop/inventoryeye/inventoryEyeBack/bin/Debug/net6.0/inventoryEyeBack.staticwebassets.runtime.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\appsettings.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.staticwebassets.runtime.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.exe
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.deps.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.runtimeconfig.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.pdb
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.AssemblyInfoInputs.cache
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.AssemblyInfo.cs
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.sourcelink.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.build.inventoryEyeBack.props
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.inventoryEyeBack.props
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.inventoryEyeBack.props
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\scopedcss\bundle\inventoryEyeBack.styles.css
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.csproj.CopyComplete
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\refint\inventoryEyeBack.dll
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.pdb
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.genruntimeconfig.cache
+C:\Users\sharo\OneDrive\מסמכים\לימודים\תשפד\פרויקט גמר\inventoryEyeBack\inventoryEyeBack\obj\Debug\net6.0\ref\inventoryEyeBack.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.staticwebassets.runtime.json
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.exe
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.deps.json
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.runtimeconfig.json
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\inventoryEyeBack.pdb
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\inventoryEyeBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.AssemblyInfo.cs
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.sourcelink.json
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.inventoryEyeBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.build.inventoryEyeBack.props
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.inventoryEyeBack.props
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.inventoryEyeBack.props
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\scopedcss\bundle\inventoryEyeBack.styles.css
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.csproj.CopyComplete
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.dll
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\refint\inventoryEyeBack.dll
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.pdb
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\inventoryEyeBack.genruntimeconfig.cache
+C:\Users\User\Desktop\inventoryEyeBack\obj\Debug\net6.0\ref\inventoryEyeBack.dll
