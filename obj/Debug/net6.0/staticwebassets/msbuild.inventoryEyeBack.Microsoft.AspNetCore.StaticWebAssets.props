@@ -2,9 +2,9 @@
   <ItemGroup>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg))">
       <SourceType>Package</SourceType>
-      <SourceId>inventoryEyeBack</SourceId>
+      <SourceId>inventoryeyeback</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/inventoryEyeBack</BasePath>
+      <BasePath>_content/inventoryeyeback</BasePath>
       <RelativePath>uploads/EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -18,9 +18,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\plant.jpeg))">
       <SourceType>Package</SourceType>
-      <SourceId>inventoryEyeBack</SourceId>
+      <SourceId>inventoryeyeback</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/inventoryEyeBack</BasePath>
+      <BasePath>_content/inventoryeyeback</BasePath>
       <RelativePath>uploads/plant.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>

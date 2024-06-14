@@ -55,7 +55,7 @@ public class AuthUserController : ControllerBase
         int status = userRegister.Insert();
         if (status == 1)
         {
-            return Ok();
+            return Ok(userRegister);
         }
         else
         {

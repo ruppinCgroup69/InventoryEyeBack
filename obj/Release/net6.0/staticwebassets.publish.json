@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zNbnQr3ku1Ne0ODJ4KSyd7qzdtrJzwjqDHr+QJYk01A=",
+  "Hash": "+wT1Ie2IwGgxbDY9nh/8x2JQV3RwUYb99NrXGSSKHAM=",
   "Source": "inventoryEyeBack",
   "BasePath": "_content/inventoryEyeBack",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "inventoryEyeBack\\wwwroot",
       "Source": "inventoryEyeBack",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\inventoryEyeBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\",
       "BasePath": "_content/inventoryEyeBack",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\Desktop\\inventoryEyeBack\\wwwroot\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg",
+      "Identity": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg",
       "SourceId": "inventoryEyeBack",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\inventoryEyeBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\",
       "BasePath": "_content/inventoryEyeBack",
       "RelativePath": "uploads/EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\EE83406E-7F71-48D7-821F-4B4EF58836C1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\inventoryEyeBack\\wwwroot\\uploads\\plant.jpeg",
+      "Identity": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\uploads\\plant.jpeg",
       "SourceId": "inventoryEyeBack",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\inventoryEyeBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sharo\\OneDrive\\מסמכים\\לימודים\\תשפד\\פרויקט גמר\\inventoryEyeBack\\inventoryEyeBack\\wwwroot\\",
       "BasePath": "_content/inventoryEyeBack",
       "RelativePath": "uploads/plant.jpeg",
       "AssetKind": "All",
